@@ -1,4 +1,4 @@
 Posts in this repo:
 
-- [Text example](exsite/?test)
+- [Text example](?test)
 - [Equation example](exsite/?equations)
